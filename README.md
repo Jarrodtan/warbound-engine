@@ -1,6 +1,6 @@
-# StructSquad
+# WarBound
 
-A turn-based, grid-based dungeon RPG built on a **custom C++ game engine** by team *Struct Squad* for the GAM200 module at DigiPen Institute of Technology Singapore (SIT-DigiPen).
+A turn-based, grid-based dungeon RPG built on a **custom C++ game engine** by team *Struct Squad* for the GAM200/GAM250 modules at DigiPen Institute of Technology Singapore (SIT-DigiPen).
 
 Lead a party of heroes (Warrior, Mage, Berserker) through procedurally generated levels. Each turn you spend movement points on the grid, fight enemies in turn-based combat and use skills to reach and defeat each level's boss.
 
