@@ -1,0 +1,3 @@
+# Third-party code and docs: exclude from GitHub language stats
+library/** linguist-vendored
+*.html linguist-documentation
